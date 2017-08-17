@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { addTodo, completeTodo, setVisibilityFilter,goLeft,goRight, VisibilityFilters } from '../actions'
+import { addTodo, completeTodo, setVisibilityFilter,goLeft,goRight, VisibilityFilters } from '../actions/actions'
 import AddTodo from '../components/AddTodo'
 import TodoList from '../components/TodoList'
 import Footer from '../components/Footer'

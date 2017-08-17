@@ -6,8 +6,8 @@ import HelloWorld from '../demo/helloWorld'
 import Message from '../demo/message'
 import Lifecycle from '../demo/lifecycle'
 import Clock from '../demo/clock'
-import FluxTab from '../demo/fluxFiles/FluxTab'
-import ReduxTab from '../demo/fluxFiles/ReduxTab'
+import FluxTab from '../demo/fluxFiles/fluxTab'
+import ReduxTab from '../demo/reduxFiles/ReduxTab'
 export default class Demo extends Component {
     constructor(props){
         super(props);

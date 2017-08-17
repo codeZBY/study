@@ -13,7 +13,7 @@ export const INDEX_MENU = [
     {name:'组件',subname:'component',url:'/component'},
     {name:'生命周期',subname:'lifecycle',url:'/lifecycle'},
     {name:'Flux',url:'/flux'},
-    {name:'Flux VS Redux',url:'/rluxVsRedux'},
+    {name:'Flux VS Redux',url:'/fluxVsRedux'},
     {name:'Redux',url:'/redux'},
 ];
 
